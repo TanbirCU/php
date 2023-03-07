@@ -1,12 +1,13 @@
 <?php
-    function display($number){
+    function myName($number){
         if($number<5){
             echo "$number<br/>";
-            display($number + 1);
+            myName($number+1);
+            
         }
        
     }
-    diaplay(1); 
+    myName(1); 
     
 
 ?>
