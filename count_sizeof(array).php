@@ -1,7 +1,7 @@
 <?php
     $food=array('apple','orange','grapes');
 
-    // // echo count($food);
+    // echo count($food);
 
     // echo sizeof($food);
 /*
@@ -11,11 +11,11 @@
     );
 */
     // echo count($food['fruits'],1);
-    $len=count ($food);
+    // $len=count ($food);
 
-    for($i=0;$i<$len;$i++){
-        echo $food[$i]."<br>";
-    }
+    // for($i=0;$i<$len;$i++){
+    //     echo $food[$i]."<br>";
+    // }
     
 
 ?>
