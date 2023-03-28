@@ -3,7 +3,7 @@
 
     // echo count($food);
 
-    // echo sizeof($food);
+    echo sizeof($food);
 /*
     $food=array(
         'fruits'=>array('apple','banana','orange','uyss'),
